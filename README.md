@@ -14,7 +14,6 @@
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,laravel,next)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,bash,git,npm,linux,figma,docker)](https://skillicons.dev)
-[![<bfaras>'s 42 stats](https://badge.mediaplus.ma/<theme>/<bfaras>)](https://github.com/oakoudad/badge42)
 
 
 
