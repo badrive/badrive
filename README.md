@@ -4,7 +4,7 @@
 <br>
 [![bfaras's 42 stats](https://badge.mediaplus.ma/darkblue/bfaras)](https://github.com/oakoudad/badge42)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,laravel,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,bash,git,npm,linux,figma,docker)](https://skillicons.dev)
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badrive&layout=donut&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
