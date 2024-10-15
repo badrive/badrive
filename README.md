@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,python,c)](https://skillicons.dev)
+<br>
 [![bfaras's 42 stats](https://badge.mediaplus.ma/darkblue/bfaras)](https://github.com/oakoudad/badge42)
 [![My Skills](https://skillicons.dev/icons?i=vscode,bash,git,npm,linux,figma,docker)](https://skillicons.dev)
 
