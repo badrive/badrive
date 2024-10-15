@@ -1,8 +1,5 @@
-## Hi there 👋
+## Hi there 👋, I'm Badr Faras "Web Developer".
 
-
-<h1 align="center">Hi 👋, I'm BADR FARAS</h1>
-<h3 align="center"> "Web Developer" </h3>
 
 [![bfaras's 42 stats](https://badge.mediaplus.ma/darkblue/bfaras)](https://github.com/oakoudad/badge42)
 <br>
