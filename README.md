@@ -3,21 +3,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,python,c)](https://skillicons.dev)
 <br>
 [![bfaras's 42 stats](https://badge.mediaplus.ma/darkblue/bfaras)](https://github.com/oakoudad/badge42)
-
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=vscode,bash,git,npm,linux,figma,docker)](https://skillicons.dev)
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,laravel,next)](https://skillicons.dev)
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badrive&layout=donut&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
