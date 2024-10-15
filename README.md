@@ -9,6 +9,7 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badrive&layout=donut&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,laravel,next)](https://skillicons.dev)
 
 <!--
