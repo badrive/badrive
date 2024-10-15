@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,python,c)](https://skillicons.dev)
 <br>
-<div  flex-direction: row;>
+
 [![bfaras's 42 stats](https://badge.mediaplus.ma/darkblue/bfaras)](https://github.com/oakoudad/badge42)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,bash,git,npm,linux,figma,docker)](https://skillicons.dev)
-</div>
+
 
 
 <br>
