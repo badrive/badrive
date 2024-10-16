@@ -4,14 +4,7 @@
 <br>
 
 [![bfaras's 42 stats](https://badge.mediaplus.ma/darkblue/bfaras)](https://github.com/oakoudad/badge42)
-###
-<ul>
-<li>.</li>
-<li>.</li>
-<li>.</li>
-<li>.</li>
-</ul>
-<br>
+
 [![My Skills](https://skillicons.dev/icons?i=vscode,bash,git,npm,linux,figma,docker)](https://skillicons.dev)
 <br>
 
