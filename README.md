@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,c,git,bootstrap,docker)](https://skillicons.dev)
 <br>
-[![bfaras's 42 stats](https://badge.mediaplus.ma/darkblue/bfaras)](https://github.com/oakoudad/badge42)
+[![bfaras's 42 stats](https://badge.mediaplus.ma/black/bfaras)](https://github.com/oakoudad/badge42)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badrive&layout=donut&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <br>
