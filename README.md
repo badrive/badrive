@@ -5,9 +5,6 @@
 [![bfaras's 42 stats](https://badge.mediaplus.ma/Darkgray/bfaras)](https://github.com/oakoudad/badge42)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badrive&layout=donut&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![My Skills](https://skillicons.dev/icons?i=bash,tailwind)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=bash,tailwind)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=bash,tailwind,react,laravel,next,npm,linux,figma,vscode)](https://skillicons.dev)
 
