@@ -17,7 +17,7 @@
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,c,cpp,git,docker)](https://skillicons.dev) -->
 <!-- [![bfaras's 42 stats](https://badge.mediaplus.ma/Darkgray/bfaras)](https://github.com/oakoudad/badge42) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badrive&layout=donut&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badrive&layout=donut&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <!--
 - Currently 🟢:<br> [![My Skills](https://skillicons.dev/icons?i=cpp,nodejs)](https://skillicons.dev)
