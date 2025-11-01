@@ -1,3 +1,89 @@
+
+Skip to content
+Navigation Menu
+badrive
+badrive
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+
+    Settings
+
+badrive/badrive is a special repository: its README.md will appear on your profile!
+
+    badrive
+
+/
+in
+main
+
+Indent mode
+Indent size
+Line wrap mode
+Editing README.md file contents
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
 ## Hi there 👋
 ```md
 /* ************************************************************************** */
@@ -31,7 +117,8 @@
 <!-- [![My Skills](https://skillicons.dev/icons?i=bash,tailwind,react,laravel,next,npm,linux,figma,vscode)](https://skillicons.dev) -->
 
 
-|
+
+|                    |                                                       |
 | :----------------: | :---------------------------------------------------: |
 |   `Currently 🟢`   |    [![My Skills](https://skillicons.dev/icons?i=cpp,nodejs)](https://skillicons.dev)    |
 |  `Web-stack 🥞`    |  [![My Skills](https://skillicons.dev/icons?i=next,nest)](https://skillicons.dev)  |
@@ -53,3 +140,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+Attach files by dragging & dropping, selecting or pasting them.
+Editing badrive/README.md at main · badrive/badrive
