@@ -104,7 +104,7 @@ Editing README.md file contents
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badrive&layout=donut&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-
+<!--
 - Currently 🟢:<br> [![My Skills](https://skillicons.dev/icons?i=cpp,nodejs)](https://skillicons.dev)
 
 - Web-stack 🥞:<br> [![My Skills](https://skillicons.dev/icons?i=next,nest)](https://skillicons.dev)
@@ -113,7 +113,7 @@ Editing README.md file contents
 
 - Tools 🍴:<br> [![My Skills](https://skillicons.dev/icons?i=bash,git,linux,figma,vscode,docker)](https://skillicons.dev)
 
-- I-speak 🎓:<br> [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,typescript)](https://skillicons.dev)
+- I-speak 🎓:<br> [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,typescript)](https://skillicons.dev) 
 <!-- [![My Skills](https://skillicons.dev/icons?i=bash,tailwind,react,laravel,next,npm,linux,figma,vscode)](https://skillicons.dev) -->
 
 
@@ -139,7 +139,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-Attach files by dragging & dropping, selecting or pasting them.
-Editing badrive/README.md at main · badrive/badrive
