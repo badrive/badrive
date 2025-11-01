@@ -19,22 +19,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badrive&layout=donut&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-
 - Currently 🟢:<br> [![My Skills](https://skillicons.dev/icons?i=cpp,nodejs)](https://skillicons.dev)
-
-
 
 - Web-stack 🥞:<br> [![My Skills](https://skillicons.dev/icons?i=next,nest)](https://skillicons.dev)
 
-
-
 - Ex-Web-stack 🥞:<br> [![My Skills](https://skillicons.dev/icons?i=react,laravel)](https://skillicons.dev)
 
-
-
 - Tools 🍴:<br> [![My Skills](https://skillicons.dev/icons?i=bash,git,linux,figma,vscode,docker)](https://skillicons.dev)
-
-
 
 - I-speak 🎓:<br> [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,typescript)](https://skillicons.dev)
 <!-- [![My Skills](https://skillicons.dev/icons?i=bash,tailwind,react,laravel,next,npm,linux,figma,vscode)](https://skillicons.dev) -->
