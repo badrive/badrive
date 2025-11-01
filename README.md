@@ -13,12 +13,20 @@
 /* ************************************************************************** */
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,c,cpp,git,docker)](https://skillicons.dev)
-<br>
+<!-- [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,c,cpp,git,docker)](https://skillicons.dev) -->
 <!-- [![bfaras's 42 stats](https://badge.mediaplus.ma/Darkgray/bfaras)](https://github.com/oakoudad/badge42) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badrive&layout=donut&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=bash,tailwind,react,laravel,next,npm,linux,figma,vscode)](https://skillicons.dev)
+# Currently 🟢: [![My Skills](https://skillicons.dev/icons?i=cpp,nodejs)](https://skillicons.dev)
+<br>
+# Web-stack 🥞: [![My Skills](https://skillicons.dev/icons?i=next,nest)](https://skillicons.dev)
+<br>
+# Ex-Web-stack 🥞: [![My Skills](https://skillicons.dev/icons?i=react,laravel)](https://skillicons.dev)
+<br>
+# Tools 🍴: [![My Skills](https://skillicons.dev/icons?i=bash,git,linux,figma,vscode,docker)](https://skillicons.dev)
+<br>
+# I-can-speak 🎓: [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,typescript)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=bash,tailwind,react,laravel,next,npm,linux,figma,vscode)](https://skillicons.dev) -->
 
 <!--
 **badrive/badrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
