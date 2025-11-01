@@ -33,7 +33,7 @@
 
 
 
-|                    |                                                       |
+|         KEY        |                      Value                            |
 | :----------------: | :---------------------------------------------------: |
 |   `Currently 🟢`   |    [![My Skills](https://skillicons.dev/icons?i=cpp,nodejs)](https://skillicons.dev)    |
 |  `Web-stack 🥞`    |  [![My Skills](https://skillicons.dev/icons?i=next,nest)](https://skillicons.dev)  |
