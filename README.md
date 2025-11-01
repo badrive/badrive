@@ -20,23 +20,23 @@
 
 <br>
 
-# Currently 🟢: [![My Skills](https://skillicons.dev/icons?i=cpp,nodejs)](https://skillicons.dev)
+# Currently 🟢:<br> [![My Skills](https://skillicons.dev/icons?i=cpp,nodejs)](https://skillicons.dev)
 
 <br>
 
-# Web-stack 🥞: [![My Skills](https://skillicons.dev/icons?i=next,nest)](https://skillicons.dev)
+# Web-stack 🥞:<br> [![My Skills](https://skillicons.dev/icons?i=next,nest)](https://skillicons.dev)
 
 <br>
 
-# Ex-Web-stack 🥞: [![My Skills](https://skillicons.dev/icons?i=react,laravel)](https://skillicons.dev)
+# Ex-Web-stack 🥞:<br> [![My Skills](https://skillicons.dev/icons?i=react,laravel)](https://skillicons.dev)
 
 <br>
 
-# Tools 🍴: [![My Skills](https://skillicons.dev/icons?i=bash,git,linux,figma,vscode,docker)](https://skillicons.dev)
+# Tools 🍴:<br> [![My Skills](https://skillicons.dev/icons?i=bash,git,linux,figma,vscode,docker)](https://skillicons.dev)
 
 <br>
 
-# I-can-speak 🎓: [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,typescript)](https://skillicons.dev)
+# I-can-speak 🎓:<br> [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,typescript)](https://skillicons.dev)
 <!-- [![My Skills](https://skillicons.dev/icons?i=bash,tailwind,react,laravel,next,npm,linux,figma,vscode)](https://skillicons.dev) -->
 
 <!--
