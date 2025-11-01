@@ -31,7 +31,7 @@
 <!-- [![My Skills](https://skillicons.dev/icons?i=bash,tailwind,react,laravel,next,npm,linux,figma,vscode)](https://skillicons.dev) -->
 
 
-|      Icon ID       |                         Icon                          |
+|
 | :----------------: | :---------------------------------------------------: |
 |   `Currently 🟢`   |    [![My Skills](https://skillicons.dev/icons?i=cpp,nodejs)](https://skillicons.dev)    |
 |  `Web-stack 🥞`    |  [![My Skills](https://skillicons.dev/icons?i=next,nest)](https://skillicons.dev)  |
