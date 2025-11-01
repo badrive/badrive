@@ -23,15 +23,19 @@
 - Currently 🟢:<br> [![My Skills](https://skillicons.dev/icons?i=cpp,nodejs)](https://skillicons.dev)
 
 <br>
+
 - Web-stack 🥞:<br> [![My Skills](https://skillicons.dev/icons?i=next,nest)](https://skillicons.dev)
 
 <br>
+
 - Ex-Web-stack 🥞:<br> [![My Skills](https://skillicons.dev/icons?i=react,laravel)](https://skillicons.dev)
 
 <br>
+
 - Tools 🍴:<br> [![My Skills](https://skillicons.dev/icons?i=bash,git,linux,figma,vscode,docker)](https://skillicons.dev)
 
 <br>
+
 - I-speak 🎓:<br> [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,typescript)](https://skillicons.dev)
 <!-- [![My Skills](https://skillicons.dev/icons?i=bash,tailwind,react,laravel,next,npm,linux,figma,vscode)](https://skillicons.dev) -->
 
