@@ -35,7 +35,7 @@
 |   `Currently 🟢`   |    [![My Skills](https://skillicons.dev/icons?i=cpp,nodejs)](https://skillicons.dev)    |
 |  `Web-stack 🥞`    |  [![My Skills](https://skillicons.dev/icons?i=next,nest)](https://skillicons.dev)  |
 |  `Ex-Web-stack 🥞` |    [![My Skills](https://skillicons.dev/icons?i=react,laravel)](https://skillicons.dev)      |
-|     `Tools 🍴`     |       [![My Skills](https://skillicons.dev/icons?i=bash,git,linux,figma,vscode,docker)](https://skillicons.dev)       |
+|     `Tools 🍴`     |       [![My Skills](https://skillicons.dev/icons?i=bash,git,linux,figma,vscode,docker)](https://skillicons.dev)                |
 |    `I-speak 🎓`    |    [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,typescript)](https://skillicons.dev)    |
 | :----------------: | :---------------------------------------------------: |
 <!--
