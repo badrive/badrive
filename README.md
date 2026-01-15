@@ -36,8 +36,8 @@
 |         KEY        |                      Value                            |
 | :----------------: | :---------------------------------------------------: |
 |   `Currently 🟢`   |    [![My Skills](https://skillicons.dev/icons?i=cpp,nodejs)](https://skillicons.dev)    |
-|  `Front-end 🥞`    |  [![My Skills](https://skillicons.dev/icons?i=next,React)](https://skillicons.dev)  |
-|  `Back-end 🥞` |    [![My Skills](https://skillicons.dev/icons?i=Laravel,nest,spring)](https://skillicons.dev)      |
+|  `Front-end 🥞`    |  [![My Skills](https://skillicons.dev/icons?i=next,react)](https://skillicons.dev)  |
+|  `Back-end 🥞` |    [![My Skills](https://skillicons.dev/icons?i=laravel,nest,spring)](https://skillicons.dev)      |
 |     `Tools 🍴`     |       [![My Skills](https://skillicons.dev/icons?i=git,linux,figma,vscode,docker)](https://skillicons.dev)                |
 |    `I-speak 🎓`    |    [![My Skills](https://skillicons.dev/icons?i=c,cpp,typescript,bash,python)](https://skillicons.dev)    |
 <!--
