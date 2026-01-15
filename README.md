@@ -24,7 +24,7 @@
 
 - Web-stack 🥞:<br> [![My Skills](https://skillicons.dev/icons?i=next,nest)](https://skillicons.dev)
 
-- Ex-Web-stack 🥞:<br> [![My Skills](https://skillicons.dev/icons?i=react,laravel)](https://skillicons.dev)
+- Web-stack2 🥞:<br> [![My Skills](https://skillicons.dev/icons?i=react,laravel)](https://skillicons.dev)
 
 - Tools 🍴:<br> [![My Skills](https://skillicons.dev/icons?i=bash,git,linux,figma,vscode,docker)](https://skillicons.dev)
 
