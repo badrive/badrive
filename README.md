@@ -1,8 +1,6 @@
 
 ## Hi there 👋
 
-**Software Engineer | 1337 Student | AI Enthusiast**
-
 I solve complex problems by combining **C++ efficiency** with **Python's AI ecosystem**.
 ```md
 /* ************************************************************************** */
