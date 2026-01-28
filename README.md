@@ -54,3 +54,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there! I'm [Your Name] 👋
+**Software Engineer | 1337 Student | AI Enthusiast**
+
+I solve complex problems by combining **C++ efficiency** with **Python's AI ecosystem**.
+
+#### 🛠️ Tech Stack
+* **Languages:** `C++` `Python` `JavaScript` `SQL`
+* **Web:** `Django` `FastAPI` `React` `Tailwind`
+* **AI/ML:** `LangChain` `RAG` `Hugging Face` `ChromaDB`
+* **Tools:** `Docker` `Git` `Linux` `Postman`
