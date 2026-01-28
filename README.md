@@ -35,11 +35,11 @@
 
 |         KEY        |                      Value                            |
 | :----------------: | :---------------------------------------------------: |
-|   `Currently 🟢`   |    [![My Skills](https://skillicons.dev/icons?i=cpp,nodejs)](https://skillicons.dev)    |
+|   `AI/ML 🟢`   |    [![My Skills](https://skillicons.dev/icons?i=langchain,rag,chromadb,huggingface)](https://skillicons.dev)    |
 |  `Front-end 🥞`    |  [![My Skills](https://skillicons.dev/icons?i=next,react)](https://skillicons.dev)  |
-|  `Back-end 🥞` |    [![My Skills](https://skillicons.dev/icons?i=laravel,nest,spring)](https://skillicons.dev)      |
-|     `Tools 🍴`     |       [![My Skills](https://skillicons.dev/icons?i=git,linux,figma,vscode,docker)](https://skillicons.dev)                |
-|    `I-speak 🎓`    |    [![My Skills](https://skillicons.dev/icons?i=c,cpp,typescript,bash,python)](https://skillicons.dev)    |
+|  `Back-end 🥞` |    [![My Skills](https://skillicons.dev/icons?i=django,fastapi,laravel,nest)](https://skillicons.dev)      |
+|     `Tools 🍴`     |       [![My Skills](https://skillicons.dev/icons?i=git,linux,figma,docker)](https://skillicons.dev)                |
+|    `I-speak 🎓`    |    [![My Skills](https://skillicons.dev/icons?i=c,cpp,typescript,bash,python,sql)](https://skillicons.dev)    |
 <!--
 **badrive/badrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
