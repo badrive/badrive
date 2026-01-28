@@ -1,8 +1,6 @@
 
 ## Hi there 👋
 
-I solve complex problems by combining **C++ efficiency** with **Python's AI ecosystem**.
-
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,c,cpp,git,docker)](https://skillicons.dev) -->
 <!-- [![bfaras's 42 stats](https://badge.mediaplus.ma/Darkgray/bfaras)](https://github.com/oakoudad/badge42) -->
 
