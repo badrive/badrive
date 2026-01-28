@@ -2,19 +2,6 @@
 ## Hi there 👋
 
 I solve complex problems by combining **C++ efficiency** with **Python's AI ecosystem**.
-```md
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                          :::      :::::::: */
-/*   README.md                                            :+:      :+:    :+: */
-/*                                                    +:+ +:+         +:+     */
-/*   By: badrive ^_^                                  +#+  +:+       +#+      */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2025/01/23 11:38:34 by badrive           #+#    #+#             */
-/*   Updated: 2025/01/23 11:45:00 by badrive          ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-```
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,c,cpp,git,docker)](https://skillicons.dev) -->
 <!-- [![bfaras's 42 stats](https://badge.mediaplus.ma/Darkgray/bfaras)](https://github.com/oakoudad/badge42) -->
