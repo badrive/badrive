@@ -22,7 +22,6 @@
 
 |         KEY        |                      Value                            |
 | :----------------: | :---------------------------------------------------: |
-<!-- |   `AI/ML 🟢`   |    `LangChain` `RAG` `Hugging Face` `ChromaDB`    | -->
 |  `Front-end 🥞`    |  [![My Skills](https://skillicons.dev/icons?i=next,react)](https://skillicons.dev)  |
 |  `Back-end 🥞` |    [![My Skills](https://skillicons.dev/icons?i=django,laravel,spring)](https://skillicons.dev)      |
 |     `Tools 🍴`     |       [![My Skills](https://skillicons.dev/icons?i=git,linux,figma,docker)](https://skillicons.dev)                |
