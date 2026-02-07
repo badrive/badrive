@@ -22,9 +22,9 @@
 
 |         KEY        |                      Value                            |
 | :----------------: | :---------------------------------------------------: |
-|   `AI/ML 🟢`   |    `LangChain` `RAG` `Hugging Face` `ChromaDB`    |
+<!-- |   `AI/ML 🟢`   |    `LangChain` `RAG` `Hugging Face` `ChromaDB`    | -->
 |  `Front-end 🥞`    |  [![My Skills](https://skillicons.dev/icons?i=next,react)](https://skillicons.dev)  |
-|  `Back-end 🥞` |    [![My Skills](https://skillicons.dev/icons?i=django,fastapi,laravel,nest)](https://skillicons.dev)      |
+|  `Back-end 🥞` |    [![My Skills](https://skillicons.dev/icons?i=django,laravel,spring)](https://skillicons.dev)      |
 |     `Tools 🍴`     |       [![My Skills](https://skillicons.dev/icons?i=git,linux,figma,docker)](https://skillicons.dev)                |
 |    `I-speak 🎓`    |    [![My Skills](https://skillicons.dev/icons?i=c,cpp,typescript,bash,python,postgres)](https://skillicons.dev)    |
 <!--
