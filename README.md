@@ -25,7 +25,7 @@
 |  `Front-end 🥞`    |  [![My Skills](https://skillicons.dev/icons?i=next,react)](https://skillicons.dev)  |
 |  `Back-end 🥞` |    [![My Skills](https://skillicons.dev/icons?i=django,laravel,spring)](https://skillicons.dev)      |
 |     `Tools 🍴`     |       [![My Skills](https://skillicons.dev/icons?i=git,linux,figma,docker)](https://skillicons.dev)                |
-|    `I-speak 🎓`    |    [![My Skills](https://skillicons.dev/icons?i=c,cpp,typescript,bash,python,postgres)](https://skillicons.dev)    |
+|    `I-speak 🎓`    |    [![My Skills](https://skillicons.dev/icons?i=c,cpp,typescript,bash,python,go)](https://skillicons.dev)    |
 <!--
 **badrive/badrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
